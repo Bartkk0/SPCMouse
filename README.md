@@ -1,4 +1,5 @@
 # SPC Lix Plus SPG050 driver
+Not by any means complete, might finish it sometime, PRs welcome as always.
 
 Used a windows vm with usb redirect and wireshark for capturing usb data.
 
